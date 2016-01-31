@@ -1,5 +1,4 @@
 # Todo Challenge
-================
 
 Learning Angular
 
@@ -26,6 +25,6 @@ Technologies
 
 Contributors
 -------------
-[Alan Gabbianelli](https://github.com/AlanGabbianelli)
+**[Alan Gabbianelli](https://github.com/AlanGabbianelli)**
 
 Many thanks to [Giamir Buoncristiani](https://github.com/giamir) for his Gruntfile suggestions.
